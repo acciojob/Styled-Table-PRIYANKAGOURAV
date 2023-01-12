@@ -1,1 +1,17 @@
 /* your code */
+.trhead{
+	background:#000080;
+	color:white;
+}
+table{
+    border:ridge 1px;
+    border-radius: 600px;
+	width:700px;
+	height:150px;
+}
+table,td,th{
+	border-collapse:collapse;
+}
+.treven{
+	background: #c4c0b9;
+}
